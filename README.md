@@ -7,4 +7,4 @@
   * ERC-721、NFT和元宇宙（[文档](https://biquanlibai.notion.site/ERC-721-NFT-62e8505393e346bc98bb5035afbe618f)、[视频](https://youtu.be/LmaehJD8PBU)）
 
 新技术分享
-  * Arweave核心原理（[文档](https://biquanlibai.notion.site/Arweave-429e88e998254724a731e8d64e0a8224)）
+  * Arweave核心原理（[文档](https://biquanlibai.notion.site/Arweave-429e88e998254724a731e8d64e0a8224)、[视频](https://youtu.be/00eF_troF1M)）
