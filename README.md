@@ -11,3 +11,4 @@
 
 新技术分享
   * Arweave核心原理（[文档](https://biquanlibai.notion.site/Arweave-429e88e998254724a731e8d64e0a8224)、[视频](https://youtu.be/00eF_troF1M)）
+  * 以太坊2.0（[文档](https://biquanlibai.notion.site/2-0-c7a5375bb4df400e8575032516065d10)、[视频](https://youtu.be/pmxkJ4qdnVU)）
