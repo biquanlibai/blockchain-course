@@ -15,4 +15,4 @@
   * Arweave核心原理（[文档](https://biquanlibai.notion.site/Arweave-429e88e998254724a731e8d64e0a8224)、[视频](https://youtu.be/00eF_troF1M)）
   * 以太坊2.0（[文档](https://biquanlibai.notion.site/2-0-c7a5375bb4df400e8575032516065d10)、[视频](https://youtu.be/pmxkJ4qdnVU)）
   * Layer2扩容方案对比（[文档](https://biquanlibai.notion.site/Layer2-78c4d0abe90c4d61933e475b126ee8f2)、[视频](https://youtu.be/HYR53OOtYkA)）
-  * 零知识证明挖矿（[文档](https://biquanlibai.notion.site/c90c3423f2d645d7a59deebc374448a4)、[视频](https://youtu.be/rRVIAbWJM0Y)）
+  * 零知识证明挖矿（[文档](https://biquanlibai.notion.site/c90c3423f2d645d7a59deebc374448a4)、[视频](https://youtu.be/rRVIAbWJM0Y)、[Medium](https://medium.com/6block/zero-knowledge-proof-mining-9bc12fbbbd55)）
