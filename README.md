@@ -10,6 +10,7 @@
   * 私钥、公钥、地址、签名、助记词（[文档](https://biquanlibai.notion.site/3f9c19c11fa14992b3c9731e015aef73)、[视频](https://youtu.be/Gol4KTUHUNI)）
 * 中级
   * P2P网络、Gossip Protocol和挖矿（[文档](https://biquanlibai.notion.site/P2P-Gossip-Protocol-854c18877ee54d55837a2ff271228103)、[视频](https://youtu.be/N3b7Pggr39Q)）
+  * 区块链中的树（[文档](https://biquanlibai.notion.site/75fdb706c3a14652be8a7501b55bf102)、[视频](https://youtu.be/Qn6sFmo8xGo)）
 
 新技术分享
   * Arweave核心原理（[文档](https://biquanlibai.notion.site/Arweave-429e88e998254724a731e8d64e0a8224)、[视频](https://youtu.be/00eF_troF1M)）
