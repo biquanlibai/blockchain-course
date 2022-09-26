@@ -18,3 +18,4 @@
   * Layer2扩容方案对比（[文档](https://biquanlibai.notion.site/Layer2-78c4d0abe90c4d61933e475b126ee8f2)、[视频](https://youtu.be/HYR53OOtYkA)）
   * 零知识证明挖矿（[文档](https://biquanlibai.notion.site/c90c3423f2d645d7a59deebc374448a4)、[视频](https://youtu.be/rRVIAbWJM0Y)、[Medium](https://medium.com/6block/zero-knowledge-proof-mining-9bc12fbbbd55)）
   * Data Availability（[文档](https://biquanlibai.notion.site/Data-Availability-caa896aae59d489b98f2448f17b01640)、[视频](https://youtu.be/V85VTrSkSdo)）
+  * MEV和套利（[文档](https://biquanlibai.notion.site/MEV-0069872a7241476f82bf5f7a4e1068ea)、[视频](https://youtu.be/Z_charqdlJk)）
