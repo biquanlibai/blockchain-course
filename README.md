@@ -20,6 +20,7 @@
   * MEV和套利（[文档](https://biquanlibai.notion.site/MEV-0069872a7241476f82bf5f7a4e1068ea)、[视频](https://youtu.be/Z_charqdlJk)）
   * Bitcoin Ordinals（[文档](https://biquanlibai.notion.site/Bitcoin-Ordinals-Inscriptions-and-BRC-20-5b0d2baee5f241dc9fbae8b54ee1208f)、[视频](https://youtu.be/n26uqdzI1yE)）
   * Tornado Cash & Privacy Pools（[文档](https://biquanlibai.notion.site/Tornado-Cash-Privacy-Pools-9adfb5dd5132467ea5023d508666435d?pvs=4)、[视频](https://youtu.be/UqlBWB1XNQ0)）
+  * BitVM（[文档](https://biquanlibai.notion.site/BitVM-2b8557e0ea004d0cbc52951782bc9754)、[视频](https://youtu.be/DQuhnM6B9tI)）
   
 零知识证明
   * 零知识证明挖矿（[文档](https://biquanlibai.notion.site/c90c3423f2d645d7a59deebc374448a4)、[视频](https://youtu.be/rRVIAbWJM0Y)、[Medium](https://medium.com/6block/zero-knowledge-proof-mining-9bc12fbbbd55)）
